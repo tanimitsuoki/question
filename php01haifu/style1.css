@@ -1,0 +1,31 @@
+form{
+    background-color: #eaeaea;
+    padding:30px 50px
+
+  }
+
+  form dl dt{
+    width: 165px;
+    padding:10px 0;
+    float:left;
+    clear:both;
+  }
+
+  form dl dd{
+    padding:10px 0;
+  }
+  p{
+   text-size-adjust:;
+
+  }
+  .a{
+    font-size: 40px;
+    width: 380px;
+    text-align: center;
+    padding: 30px 0 0 0;
+  }
+
+  .b{
+      width: 380px;
+
+  }
